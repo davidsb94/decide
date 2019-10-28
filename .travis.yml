@@ -11,6 +11,8 @@ before_script:
   - cp local_settings.travis.py decide/local_settings.py
 language: python
 python:
+  - "2.7"
+  - "3.3"
   - "3.6"
 install:
   - pip install -r requirements.txt
