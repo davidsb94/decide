@@ -1,3 +1,4 @@
+Cambios en el readme
 [![Build Status](https://travis-ci.org/davidsb94/decide.svg?branch=master)](https://travis-ci.org/davidsb94/decide)
 
 Plataforma voto electrónico educativa
